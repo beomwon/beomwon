@@ -1,7 +1,7 @@
 # BEOMWON LEE
 
 
-👻 <a href="https://endeavorr.tistory.com/"><img src="https://img.shields.io/badge/blog-FDB515?style=flat-square&logo=Tistory&logoColor=white"/></a>
+👻 <a href="https://endeavorr.tistory.com/"><img src="https://img.shields.io/badge/tistory-FDB515?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 👻 <img src="https://img.shields.io/badge/YOLO V7-000000?style=flat-square&logo=YOLO&logoColor=white"/> <img src="https://img.shields.io/badge/ FLASK -000000?style=flat-square&logo=Flask&logoColor=white"/> 
 
