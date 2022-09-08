@@ -1,8 +1,8 @@
 # BEOMWON LEE
 
-👻 인공지능공부: hanson, youtube, stackoverflow, kaggle, book, etc.
+👻 인공지능공부 : hanson, youtube, stackoverflow, kaggle, book, etc.
 
-👻 코딩공부: programmers, baeckjoon, leetcode, book, etc.
+👻 코딩공부 : programmers, baeckjoon, leetcode, book, etc.
 
 👻 <a href="https://endeavorr.tistory.com/"><img src="https://img.shields.io/badge/tistory-FDB515?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
