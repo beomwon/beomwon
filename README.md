@@ -11,8 +11,7 @@
 👻   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-181717?style=flat-square&logo=Google Colab&logoColor=white"/>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={beomwon})](https://solved.ac/{beomwon})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={beomwon})](https://solved.ac/{beomwon})
 ---
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomwon&show_icons=true&theme=merko)
