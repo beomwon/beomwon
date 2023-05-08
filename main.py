@@ -22,6 +22,7 @@ markdown_text = """
 
   <details>
   <summary>𝙍𝙀𝘾𝙀𝙉𝙏 𝘽𝙇𝙊𝙂 𝙋𝙊𝙎𝙏𝙎 🚩</summary>
+  <br>
   <div markdown="1">
 
   |index|date|title|
