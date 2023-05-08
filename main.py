@@ -19,10 +19,13 @@ markdown_text = """
   
   <p align="center"><a href="https://beomcoder.tistory.com/"><img src="https://img.shields.io/badge/blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://beomcoder.tistory.com/"/></a>  <a href="mailto:viva.beom@gmail.com"><img src="https://img.shields.io/badge/mail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viva.beom@gmail.com"/></a></p>
   <br>
-  <p> 𝙍𝙀𝘾𝙀𝙉𝙏 𝘽𝙇𝙊𝙂 𝙋𝙊𝙎𝙏𝙎 🚩</p>
 
-|index|date|title|
-|:---:|---|---|
+  <details>
+  <summary>𝙍𝙀𝘾𝙀𝙉𝙏 𝘽𝙇𝙊𝙂 𝙋𝙊𝙎𝙏𝙎 🚩</summary>
+  <div markdown="1">
+
+  |index|date|title|
+  |:---:|---|---|
 """
 
 for idx, feed in enumerate(RSS_FEED['entries']):
@@ -31,7 +34,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"|{idx+1}|{time.strftime('%Y/%m/%d', feed_date)}|[{feed['title']}]({feed['link']})|\n"
-markdown_text += "\n</div>\n"
+markdown_text += "</div>\n</details>\n</div>\n"
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
