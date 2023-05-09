@@ -11,7 +11,7 @@
     <img width="250" height="250" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHRF73%2FbtrYUTnCsI8%2FlNkXeVnkuXFPzs3pKWOM60%2Fimg.png">
   </p>
   
-  <p align="center"><a href="https://beomcoder.tistory.com/"><img src="https://img.shields.io/badge/blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://beomcoder.tistory.com/"/></a>  <a href="mailto:beomwon@naver.com"><img src="https://img.shields.io/badge/mail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beomwon@naver.com"/></a></p>
+  <p align="center"><a href="https://beomcoder.tistory.com/"><img src="https://img.shields.io/badge/blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://beomcoder.tistory.com/"/></a>  <a href="mailto:viva.beom@gmail.com"><img src="https://img.shields.io/badge/mail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viva.beom@gmail.com"/></a></p>
   <br>
 
   <details>
