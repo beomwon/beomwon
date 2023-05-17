@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL="https://beomcoder.tistory.com/rss"
+URL="https://beomcoder.tistory.com/rss" 
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
