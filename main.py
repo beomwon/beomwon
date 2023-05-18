@@ -1,5 +1,6 @@
 import feedparser, time
 
+# 팁스선정기사 https://www.venturesquare.net/881567
 URL="https://beomcoder.tistory.com/rss" 
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
