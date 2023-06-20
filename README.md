@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/06/13|[[구름레벨] '폴더 폰 자판' 파이썬 풀이](https://beomcoder.tistory.com/75)|
-|2|2023/06/09|[[구름레벨] '구름 숫자' 파이썬 풀이](https://beomcoder.tistory.com/74)|
-|3|2023/06/09|[[구름레벨] '뒤통수가 따가워' 파이썬 풀이](https://beomcoder.tistory.com/73)|
-|4|2023/05/26|[프로그래머스 '[1차] 프렌즈4블록' 파이썬 풀이](https://beomcoder.tistory.com/72)|
-|5|2023/05/18|[프로그래머스 '[3차] 방금그곡' 파이썬 풀이](https://beomcoder.tistory.com/71)|
-|6|2023/05/17|[프로그래머스 '요격 시스템' 파이썬 풀이](https://beomcoder.tistory.com/70)|
-|7|2023/05/16|[TIPS 선정 후기](https://beomcoder.tistory.com/69)|
-|8|2023/05/09|[파이썬으로 간단하게 챗봇 만들기](https://beomcoder.tistory.com/68)|
+|1|2023/06/20|[[구름레벨] '의좋은 형제' 파이썬 풀이](https://beomcoder.tistory.com/77)|
+|2|2023/06/19|[[구름레벨] '피보나치 수' 파이썬 풀이](https://beomcoder.tistory.com/76)|
+|3|2023/06/13|[[구름레벨] '폴더 폰 자판' 파이썬 풀이](https://beomcoder.tistory.com/75)|
+|4|2023/06/09|[[구름레벨] '구름 숫자' 파이썬 풀이](https://beomcoder.tistory.com/74)|
+|5|2023/06/09|[[구름레벨] '뒤통수가 따가워' 파이썬 풀이](https://beomcoder.tistory.com/73)|
+|6|2023/05/26|[프로그래머스 '[1차] 프렌즈4블록' 파이썬 풀이](https://beomcoder.tistory.com/72)|
+|7|2023/05/18|[프로그래머스 '[3차] 방금그곡' 파이썬 풀이](https://beomcoder.tistory.com/71)|
+|8|2023/05/17|[프로그래머스 '요격 시스템' 파이썬 풀이](https://beomcoder.tistory.com/70)|
 </div>
 </details>
 </div>
