@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/07/06|[YOLO V8 detection 간단하게 사용하기](https://beomcoder.tistory.com/87)|
-|2|2023/06/29|[예외처리](https://beomcoder.tistory.com/86)|
-|3|2023/06/29|[[구름레벨] '인공지능 청소기' 파이썬 풀이](https://beomcoder.tistory.com/85)|
-|4|2023/06/28|[[구름레벨] '부분 팰린드롬 문자열' 파이썬 풀이](https://beomcoder.tistory.com/84)|
-|5|2023/06/27|[AWS pymysql [ 2006, "MySQL server has gone away (ConnectionResetError(104, 'Connection reset by peer'))] 에러 해결](https://beomcoder.tistory.com/83)|
-|6|2023/06/27|[EC2 파이썬 서버 항상 실행되게 하기](https://beomcoder.tistory.com/82)|
-|7|2023/06/22|[[구름레벨] '파손된 램' 파이썬 풀이](https://beomcoder.tistory.com/81)|
-|8|2023/06/22|[[구름레벨] '버스 선택' (소희와 버스) 파이썬 풀이](https://beomcoder.tistory.com/80)|
+|1|2023/07/07|[[구름레벨] '3개의 숫자를 더하여 술래가 원하는 숫자를 만드세요' 파이썬 풀이](https://beomcoder.tistory.com/88)|
+|2|2023/07/06|[YOLO V8 detection 간단하게 사용하기](https://beomcoder.tistory.com/87)|
+|3|2023/06/29|[예외처리](https://beomcoder.tistory.com/86)|
+|4|2023/06/29|[[구름레벨] '인공지능 청소기' 파이썬 풀이](https://beomcoder.tistory.com/85)|
+|5|2023/06/28|[[구름레벨] '부분 팰린드롬 문자열' 파이썬 풀이](https://beomcoder.tistory.com/84)|
+|6|2023/06/27|[AWS pymysql [ 2006, "MySQL server has gone away (ConnectionResetError(104, 'Connection reset by peer'))] 에러 해결](https://beomcoder.tistory.com/83)|
+|7|2023/06/27|[EC2 파이썬 서버 항상 실행되게 하기](https://beomcoder.tistory.com/82)|
+|8|2023/06/22|[[구름레벨] '파손된 램' 파이썬 풀이](https://beomcoder.tistory.com/81)|
 </div>
 </details>
 </div>
