@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/07/10|[라이브러리 import 순서에 따른 에러](https://beomcoder.tistory.com/90)|
-|2|2023/07/07|[AWS EC2 디스크 용량 늘리기](https://beomcoder.tistory.com/89)|
-|3|2023/07/07|[[구름레벨] '3개의 숫자를 더하여 술래가 원하는 숫자를 만드세요' 파이썬 풀이](https://beomcoder.tistory.com/88)|
-|4|2023/07/06|[YOLO V8 detection 간단하게 사용하기](https://beomcoder.tistory.com/87)|
-|5|2023/06/29|[예외처리](https://beomcoder.tistory.com/86)|
-|6|2023/06/29|[[구름레벨] '인공지능 청소기' 파이썬 풀이](https://beomcoder.tistory.com/85)|
-|7|2023/06/28|[[구름레벨] '부분 팰린드롬 문자열' 파이썬 풀이](https://beomcoder.tistory.com/84)|
-|8|2023/06/27|[AWS pymysql [ 2006, "MySQL server has gone away (ConnectionResetError(104, 'Connection reset by peer'))] 에러 해결](https://beomcoder.tistory.com/83)|
+|1|2023/07/10|[구름레벨 '퍼져나가는 소문' 파이썬 풀이](https://beomcoder.tistory.com/92)|
+|2|2023/07/10|[프로그래머스 '스킬트리' 파이썬 풀이](https://beomcoder.tistory.com/91)|
+|3|2023/07/10|[라이브러리 import 순서에 따른 에러](https://beomcoder.tistory.com/90)|
+|4|2023/07/07|[AWS EC2 디스크 용량 늘리기](https://beomcoder.tistory.com/89)|
+|5|2023/07/07|[[구름레벨] '3개의 숫자를 더하여 술래가 원하는 숫자를 만드세요' 파이썬 풀이](https://beomcoder.tistory.com/88)|
+|6|2023/07/06|[YOLO V8 detection 간단하게 사용하기](https://beomcoder.tistory.com/87)|
+|7|2023/06/29|[예외처리](https://beomcoder.tistory.com/86)|
+|8|2023/06/29|[[구름레벨] '인공지능 청소기' 파이썬 풀이](https://beomcoder.tistory.com/85)|
 </div>
 </details>
 </div>
