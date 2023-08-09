@@ -6,7 +6,7 @@
   </a>
   
   <br>
-  <p>ᴛʜᴇ ʜᴀʀᴅᴇʀ ʏᴏᴜ ᴡᴏʀᴋ, ᴛʜᴇ ᴍᴏʀᴇ ʟɪᴋᴇʟʏ ʏᴏ ᴄᴀɴ ʀᴇᴀᴄʜ ᴛʜᴇ ɢᴏᴀʟ</p>
+  <p>𝗧𝗮𝗸𝗲 𝗮 𝗾𝗿 𝗰𝗼𝗱𝗲 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂𝗿 𝗰𝗮𝗺𝗲𝗿𝗮</p>
   <p align="center">
     <img width="250" height="250" src="https://github.com/beomwon/beomwon/assets/38881094/3c7a0ddd-6f4a-4531-86cf-b535fecff91c">
   </p>
