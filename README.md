@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/08/03|[자동화 연차 관리 시스템 만들기](https://beomcoder.tistory.com/98)|
-|2|2023/08/01|[구름레벨 '근묵자흑' 파이썬 풀이](https://beomcoder.tistory.com/97)|
-|3|2023/08/01|[구름레벨 '[KOI 2016] 주유소' 파이썬 풀이](https://beomcoder.tistory.com/96)|
-|4|2023/07/14|[구름레벨 '현대모비스 입사 프로젝트' 파이썬 풀이](https://beomcoder.tistory.com/95)|
-|5|2023/07/13|[구름레벨 '장마' 파이썬 풀이](https://beomcoder.tistory.com/94)|
-|6|2023/07/12|[구름레벨 '수 이어붙이기' 파이썬 풀이](https://beomcoder.tistory.com/93)|
-|7|2023/07/10|[구름레벨 '퍼져나가는 소문' 파이썬 풀이](https://beomcoder.tistory.com/92)|
-|8|2023/07/10|[프로그래머스 '스킬트리' 파이썬 풀이](https://beomcoder.tistory.com/91)|
+|1|2023/08/30|[프로그래머스 탐욕법(Greedy)'단속카메라'  파이썬 풀이](https://beomcoder.tistory.com/99)|
+|2|2023/08/03|[자동화 연차 관리 시스템 만들기](https://beomcoder.tistory.com/98)|
+|3|2023/08/01|[구름레벨 '근묵자흑' 파이썬 풀이](https://beomcoder.tistory.com/97)|
+|4|2023/08/01|[구름레벨 '[KOI 2016] 주유소' 파이썬 풀이](https://beomcoder.tistory.com/96)|
+|5|2023/07/14|[구름레벨 '현대모비스 입사 프로젝트' 파이썬 풀이](https://beomcoder.tistory.com/95)|
+|6|2023/07/13|[구름레벨 '장마' 파이썬 풀이](https://beomcoder.tistory.com/94)|
+|7|2023/07/12|[구름레벨 '수 이어붙이기' 파이썬 풀이](https://beomcoder.tistory.com/93)|
+|8|2023/07/10|[구름레벨 '퍼져나가는 소문' 파이썬 풀이](https://beomcoder.tistory.com/92)|
 </div>
 </details>
 </div>
