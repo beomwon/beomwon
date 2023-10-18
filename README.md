@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
-|2|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
-|3|2023/09/04|[프로그래머스 '다리를 지나는 트럭' 파이썬 풀이](https://beomcoder.tistory.com/101)|
-|4|2023/08/30|[구름레벨 '징검다리건너기' 파이썬 풀이](https://beomcoder.tistory.com/100)|
-|5|2023/08/30|[프로그래머스 탐욕법(Greedy)'단속카메라'  파이썬 풀이](https://beomcoder.tistory.com/99)|
-|6|2023/08/03|[자동화 연차 관리 시스템 만들기](https://beomcoder.tistory.com/98)|
-|7|2023/08/01|[구름레벨 '근묵자흑' 파이썬 풀이](https://beomcoder.tistory.com/97)|
-|8|2023/08/01|[구름레벨 '[KOI 2016] 주유소' 파이썬 풀이](https://beomcoder.tistory.com/96)|
+|1|2023/10/17|[구름레벨 '계수기 만들기' 파이썬 코드](https://beomcoder.tistory.com/104)|
+|2|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
+|3|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
+|4|2023/09/04|[프로그래머스 '다리를 지나는 트럭' 파이썬 풀이](https://beomcoder.tistory.com/101)|
+|5|2023/08/30|[구름레벨 '징검다리건너기' 파이썬 풀이](https://beomcoder.tistory.com/100)|
+|6|2023/08/30|[프로그래머스 탐욕법(Greedy)'단속카메라'  파이썬 풀이](https://beomcoder.tistory.com/99)|
+|7|2023/08/03|[자동화 연차 관리 시스템 만들기](https://beomcoder.tistory.com/98)|
+|8|2023/08/01|[구름레벨 '근묵자흑' 파이썬 풀이](https://beomcoder.tistory.com/97)|
 </div>
 </details>
 </div>
