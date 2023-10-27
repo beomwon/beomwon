@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/10/24|[간편하고 특이하게 나만의 QR코드 만들기](https://beomcoder.tistory.com/106)|
-|2|2023/10/18|[파일명 뒤에 0으로 채워 자릿수 맞추고 일괄 변경하는 배치 파일이나 파이썬 코드](https://beomcoder.tistory.com/105)|
-|3|2023/10/17|[구름레벨 '계수기 만들기' 파이썬 코드](https://beomcoder.tistory.com/104)|
-|4|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
-|5|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
-|6|2023/09/04|[프로그래머스 '다리를 지나는 트럭' 파이썬 풀이](https://beomcoder.tistory.com/101)|
-|7|2023/08/30|[구름레벨 '징검다리건너기' 파이썬 풀이](https://beomcoder.tistory.com/100)|
-|8|2023/08/30|[프로그래머스 탐욕법(Greedy)'단속카메라'  파이썬 풀이](https://beomcoder.tistory.com/99)|
+|1|2023/10/26|[Fast API로 백엔드서버 만들기 [1]](https://beomcoder.tistory.com/107)|
+|2|2023/10/24|[간편하고 특이하게 나만의 QR코드 만들기](https://beomcoder.tistory.com/106)|
+|3|2023/10/18|[파일명 뒤에 0으로 채워 자릿수 맞추고 일괄 변경하는 배치 파일이나 파이썬 코드](https://beomcoder.tistory.com/105)|
+|4|2023/10/17|[구름레벨 '계수기 만들기' 파이썬 코드](https://beomcoder.tistory.com/104)|
+|5|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
+|6|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
+|7|2023/09/04|[프로그래머스 '다리를 지나는 트럭' 파이썬 풀이](https://beomcoder.tistory.com/101)|
+|8|2023/08/30|[구름레벨 '징검다리건너기' 파이썬 풀이](https://beomcoder.tistory.com/100)|
 </div>
 </details>
 </div>
