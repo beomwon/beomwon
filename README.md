@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2023/12/21|[백그라운드로 파이썬 파일 실행 관리하기](https://beomcoder.tistory.com/108)|
-|2|2023/10/26|[Fast API로 백엔드서버 만들기 [1]](https://beomcoder.tistory.com/107)|
-|3|2023/10/24|[간편하고 특이하게 나만의 QR코드 만들기](https://beomcoder.tistory.com/106)|
-|4|2023/10/18|[파일명 뒤에 0으로 채워 자릿수 맞추고 일괄 변경하는 배치 파일이나 파이썬 코드](https://beomcoder.tistory.com/105)|
-|5|2023/10/17|[구름레벨 '계수기 만들기' 파이썬 코드](https://beomcoder.tistory.com/104)|
-|6|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
-|7|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
-|8|2023/09/04|[프로그래머스 '다리를 지나는 트럭' 파이썬 풀이](https://beomcoder.tistory.com/101)|
+|1|2024/01/03|[프로그래머스 '롤케이크 자르기' 파이썬 풀이](https://beomcoder.tistory.com/109)|
+|2|2023/12/21|[백그라운드로 파이썬 파일 실행 관리하기](https://beomcoder.tistory.com/108)|
+|3|2023/10/26|[Fast API로 백엔드서버 만들기 [1]](https://beomcoder.tistory.com/107)|
+|4|2023/10/24|[간편하고 특이하게 나만의 QR코드 만들기](https://beomcoder.tistory.com/106)|
+|5|2023/10/18|[파일명 뒤에 0으로 채워 자릿수 맞추고 일괄 변경하는 배치 파일이나 파이썬 코드](https://beomcoder.tistory.com/105)|
+|6|2023/10/17|[구름레벨 '계수기 만들기' 파이썬 코드](https://beomcoder.tistory.com/104)|
+|7|2023/10/17|[AWS 포트(방화벽) 연결 실수 해결 [ufw 문제]](https://beomcoder.tistory.com/103)|
+|8|2023/09/14|[프로그래머스 '과제 진행하기' 파이썬 풀이](https://beomcoder.tistory.com/102)|
 </div>
 </details>
 </div>
