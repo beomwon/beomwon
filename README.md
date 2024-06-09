@@ -21,8 +21,8 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2024/06/05|[[무료 채굴] - Grass 코인 채굴방법 총정리(PC, 모바일)](https://beomcoder.tistory.com/117)|
-|2|2024/06/05|[[무료 채굴(초기 선점)] Hamster Kombat, 7월 TON 블록체인에 토큰 출시](https://beomcoder.tistory.com/123)|
+|1|2024/06/08|[[무료 채굴(초기 선점)] Hamster Kombat, 7월 TON 블록체인에 토큰 출시](https://beomcoder.tistory.com/123)|
+|2|2024/06/05|[[무료 채굴] - Grass 코인 채굴방법 총정리(PC, 모바일)](https://beomcoder.tistory.com/117)|
 |3|2024/06/04|[[무료 채굴 코인] AI앱 OLA 소개, 300만달러 투자](https://beomcoder.tistory.com/122)|
 |4|2024/06/04|[[무료 채굴 코인] 제 2의 NOT코인, Posemesh 극 초기 채굴해보세요](https://beomcoder.tistory.com/121)|
 |5|2024/05/24|[만보기, 비트버니 같은 무료 채굴 코인 AI Earn Hub 소개](https://beomcoder.tistory.com/120)|
