@@ -21,14 +21,14 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2024/06/09|[[무료 채굴 코인] 제 2의 NOT코인, Posemesh 극 초기 채굴해보세요](https://beomcoder.tistory.com/121)|
-|2|2024/06/09|[[모바일 무료 채굴] 한번 클릭으로 두가지 코인 동시 채굴 &quot;ATHENE NETWORK&quot;](https://beomcoder.tistory.com/116)|
-|3|2024/06/09|[[텔레그램 앱 무료 채굴] 초기 선점 클릭커 채굴코인 게임 &quot;W COIN&quot;](https://beomcoder.tistory.com/124)|
-|4|2024/06/09|[극초기 무료 채굴 코인 $Nodepay 채굴방법 완벽 가이드 + 채굴 증폭 팁](https://beomcoder.tistory.com/118)|
-|5|2024/06/08|[[무료 채굴(초기 선점)] Hamster Kombat, 7월 TON 블록체인에 토큰 출시](https://beomcoder.tistory.com/123)|
-|6|2024/06/05|[[무료 채굴] - Grass 코인 채굴방법 총정리(PC, 모바일)](https://beomcoder.tistory.com/117)|
-|7|2024/06/04|[[무료 채굴 코인] AI앱 OLA 소개, 300만달러 투자](https://beomcoder.tistory.com/122)|
-|8|2024/05/24|[만보기, 비트버니 같은 무료 채굴 코인 AI Earn Hub 소개](https://beomcoder.tistory.com/120)|
+|1|2024/06/10|[[6월 오픈 무료채굴] 현재 판매 가능한 코인 채굴 &quot;PEPE MINOR BOT&quot;](https://beomcoder.tistory.com/125)|
+|2|2024/06/09|[[무료 채굴 코인] 제 2의 NOT코인, Posemesh 극 초기 채굴해보세요](https://beomcoder.tistory.com/121)|
+|3|2024/06/09|[[모바일 무료 채굴] 한번 클릭으로 두가지 코인 동시 채굴 &quot;ATHENE NETWORK&quot;](https://beomcoder.tistory.com/116)|
+|4|2024/06/09|[[텔레그램 앱 무료 채굴] 초기 선점 클릭커 채굴코인 게임 &quot;W COIN&quot;](https://beomcoder.tistory.com/124)|
+|5|2024/06/09|[극초기 무료 채굴 코인 $Nodepay 채굴방법 완벽 가이드 + 채굴 증폭 팁](https://beomcoder.tistory.com/118)|
+|6|2024/06/08|[[무료 채굴(초기 선점)] Hamster Kombat, 7월 TON 블록체인에 토큰 출시](https://beomcoder.tistory.com/123)|
+|7|2024/06/05|[[무료 채굴] - Grass 코인 채굴방법 총정리(PC, 모바일)](https://beomcoder.tistory.com/117)|
+|8|2024/06/04|[[무료 채굴 코인] AI앱 OLA 소개, 300만달러 투자](https://beomcoder.tistory.com/122)|
 </div>
 </details>
 </div>
