@@ -21,7 +21,7 @@
 
   |index|date|title|
   |:---:|---|---|
-|1|2024/07/18|[24년 마지막 투자 가치가 있는 노드(Lumia) 추천 (50달러 1일 내 페이백)](https://beomcoder.tistory.com/131)|
+|1|2024/07/22|[24년 마지막 투자 가치가 있는 노드(Lumia) 추천 (50달러 1일 내 페이백)](https://beomcoder.tistory.com/131)|
 |2|2024/06/19|[[매우 극초기 무료 채굴] 24년 6월 19일에 나온 무료 채굴 어플 'sunwaves token'](https://beomcoder.tistory.com/130)|
 |3|2024/06/17|[[상장 확정] 무료 토큰 채굴 텔레그램에서 밀어주는 'YES COIN' , 'TAPSWAP'](https://beomcoder.tistory.com/119)|
 |4|2024/06/17|[[DEFIN 자원공유 채굴] 제 2의 IO COIN &quot;TITAN NETWORK&quot;](https://beomcoder.tistory.com/129)|
