@@ -33,24 +33,6 @@
 
 </div>
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#161b22','primaryTextColor':'#c9d1d9','primaryBorderColor':'#B1F767','lineColor':'#B1F767','fontSize':'15px'}}}%%
-flowchart LR
-    ME([👨‍💻 Beomwon]):::root
-    ME --> AI[AI / ML]:::cat
-    ME --> BE[Backend]:::cat
-    ME --> FE[Frontend]:::cat
-
-    AI --> A1[Python · PyTorch]
-    AI --> A2[OpenCV · OCR]
-    BE --> B1[FastAPI · Redis]
-    BE --> B2[Docker · AWS · GCP]
-    FE --> F1[HTML + AI Agent]
-
-    classDef root fill:#B1F767,stroke:#B1F767,color:#0d1117,font-weight:bold
-    classDef cat fill:#0d1117,stroke:#B1F767,color:#B1F767,font-weight:bold
-```
-
 <br>
 
 ## <img src="https://api.iconify.design/lucide/history.svg?color=%23B1F767" width="24" align="center"/> Timeline
