@@ -1,14 +1,3 @@
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1F767&center=true&vCenter=true&width=435&lines=I'm+Beomwon+Lee%2C;AI+engineer%2C;BACKEND+developer"
-  alt="Typing SVG"
-/>
-
-</div>
-
-<br>
-
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="24" align="center"/> About Me
 
 - **AI 에이전트·MCP 서버·딥러닝 서비스**를 만드는 백엔드 개발자입니다
