@@ -68,7 +68,7 @@
 <tr>
 <td align="center"><b>25.04 ~ 25.08</b></td>
 <td><img src="https://img.shields.io/badge/교육-8b949e?style=flat-square"/><br><b>멋쟁이사자처럼 프론트엔드 부트캠프</b></td>
-<td>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 취업으로 중도 하차</td>
+<td>· <b>AI 에이전트로 프론트를 개발할 때 최소한의 지식이 있으면 더 수월할 것 같아 수강</b><br>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 취업으로 중도 하차</td>
 </tr>
 <tr>
 <td align="center"><b>24.09 ~ 25.06</b></td>
