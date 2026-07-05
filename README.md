@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=beomwon&color=B1F767&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=beomwon&color=B1F767&style=flat-square&label=Profile+Views&base=1723"/>
 </div>
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="24" align="center"/> About Me
