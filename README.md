@@ -1,3 +1,7 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=beomwon&color=B1F767&style=flat-square&label=Profile+Views"/>
+</div>
+
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="24" align="center"/> About Me
 
 - **AI 에이전트·MCP 서버·딥러닝 서비스**를 만드는 백엔드 개발자입니다
@@ -28,6 +32,24 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agent_Driven-B1F767?style=flat-square&logo=claude&logoColor=black"/>
 
 </div>
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#161b22','primaryTextColor':'#c9d1d9','primaryBorderColor':'#B1F767','lineColor':'#B1F767','fontSize':'15px'}}}%%
+flowchart LR
+    ME([👨‍💻 Beomwon]):::root
+    ME --> AI[AI / ML]:::cat
+    ME --> BE[Backend]:::cat
+    ME --> FE[Frontend]:::cat
+
+    AI --> A1[Python · PyTorch]
+    AI --> A2[OpenCV · OCR]
+    BE --> B1[FastAPI · Redis]
+    BE --> B2[Docker · AWS · GCP]
+    FE --> F1[HTML + AI Agent]
+
+    classDef root fill:#B1F767,stroke:#B1F767,color:#0d1117,font-weight:bold
+    classDef cat fill:#0d1117,stroke:#B1F767,color:#B1F767,font-weight:bold
+```
 
 <br>
 
@@ -88,5 +110,9 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=beomwon&hide_border=true&background=0d1117&ring=B1F767&fire=B1F767&currStreakLabel=B1F767&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/beomwon/beomwon/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
