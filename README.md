@@ -5,10 +5,6 @@
   alt="Typing SVG"
 />
 
-<br>
-
-<a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko"><img src="https://img.shields.io/badge/App-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=B1F767"/></a>
-
 </div>
 
 <br>
@@ -17,7 +13,7 @@
 
 - **AI 에이전트·MCP 서버·딥러닝 서비스**를 만드는 백엔드 개발자입니다
 - 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 운영했습니다
-- 백준·프로그래머스로 **알고리즘**을 꾸준히 풀고 있습니다
+- 백준·프로그래머스로 **알고리즘** 문제를 풀며 기본기를 다졌습니다
 
 <br>
 
@@ -31,11 +27,15 @@
 
 **Backend**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 
-**Frontend**
+**Now Exploring** <sub>천천히 익혀보는 중</sub>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+**Frontend** <sub>기본 HTML + AI 에이전트를 활용한 개발·수정</sub>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agent_Driven-B1F767?style=flat-square&logo=claude&logoColor=black"/>
 
 </div>
 
@@ -98,9 +98,5 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=beomwon&hide_border=true&background=0d1117&ring=B1F767&fire=B1F767&currStreakLabel=B1F767&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/B1F767/beomwon" alt="Contribution graph" width="720"/>
 
 </div>
