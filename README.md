@@ -127,9 +127,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beomwon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B1F767&icon_color=B1F767&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomwon&layout=compact&hide_border=true&bg_color=0d1117&title_color=B1F767&text_color=c9d1d9&langs_count=6"/>
-
 <img src="https://streak-stats.demolab.com?user=beomwon&hide_border=true&background=0d1117&ring=B1F767&fire=B1F767&currStreakLabel=B1F767&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/B1F767/beomwon" alt="Contribution graph" width="720"/>
 
 </div>
