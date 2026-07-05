@@ -44,12 +44,12 @@
 ## <img src="https://api.iconify.design/lucide/history.svg?color=%23B1F767" width="24" align="center"/> Timeline
 
 <details open>
-<summary><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23B1F767" width="16" align="center"/> <b>후추 (Whochu) — 안심 신원 인증 서비스</b> &nbsp;<img src="https://img.shields.io/badge/2026.06_~_ing-B1F767?style=flat-square" align="center"/></summary>
+<summary><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23B1F767" width="16" align="center"/> <b><a href="https://www.whochu.com">후추 (Whochu)</a> — 안심 신원 인증 서비스</b> &nbsp;<img src="https://img.shields.io/badge/2026.06_~_ing-B1F767?style=flat-square" align="center"/></summary>
 <br>
 
 > **모두의 창업 1차 선정** <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="15" align="center"/> — 아이디어 기획부터 설계·개발까지 전 과정 1인 수행
 
-- **KCP 본인인증 + 사기 이력 조회**를 통합한 안심 신원 인증 플랫폼
+- **KCP 본인인증 + 사기 이력 조회**를 통합한 안심 신원 인증 플랫폼 → [www.whochu.com](https://www.whochu.com)
 - 카카오/네이버/구글/애플 소셜 로그인 직접 연동 및 자체 JWT 인증 구현
 - PortOne 본인인증, 토스페이먼츠 결제 연동, Flutter WebView 모바일 앱까지 풀스택 개발
 - Next.js 15 · TypeScript · Supabase · Vercel
