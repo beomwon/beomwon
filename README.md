@@ -42,7 +42,7 @@
 <tr>
 <td align="center"><b>26.06 ~</b></td>
 <td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><b><a href="https://www.whochu.com">후추 (Whochu)</a></b><br><sub>안심 신원 인증 서비스</sub></td>
-<td><b>모두의 창업 1차 선정</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — 아이디어·설계부터 개발까지 1인 수행<br>· 퇴근 후 <b>AI 에이전트를 활용해 3일 만에 개발</b><br>· KCP 본인인증 + 사기 이력 조회 통합, 소셜 로그인 4종 자체 JWT 연동<br>· Next.js 15 · Supabase · 토스페이먼츠 · Flutter WebView</td>
+<td><b><a href="https://www.modoo.or.kr/member/espero">모두의 창업 1차 선정</a></b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — 아이디어·설계부터 개발까지 1인 수행<br>· 퇴근 후 <b>AI 에이전트를 활용해 3일 만에 개발</b><br>· KCP 본인인증 + 사기 이력 조회 통합, 소셜 로그인 4종 자체 JWT 연동<br>· Next.js 15 · Supabase · 토스페이먼츠 · Flutter WebView</td>
 </tr>
 <tr>
 <td align="center"><b>25.09 ~</b></td>
