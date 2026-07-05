@@ -52,42 +52,42 @@
 </tr>
 <tr>
 <td align="center"><b>26.06 ~</b></td>
-<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23B1F767" width="15" align="center"/> <b><a href="https://www.whochu.com">후추 (Whochu)</a></b><br><sub>안심 신원 인증 서비스</sub></td>
+<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><b><a href="https://www.whochu.com">후추 (Whochu)</a></b><br><sub>안심 신원 인증 서비스</sub></td>
 <td><b>모두의 창업 1차 선정</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — 아이디어·설계부터 개발까지 1인 수행<br>· 퇴근 후 <b>AI 에이전트를 활용해 3일 만에 개발</b><br>· KCP 본인인증 + 사기 이력 조회 통합, 소셜 로그인 4종 자체 JWT 연동<br>· Next.js 15 · Supabase · 토스페이먼츠 · Flutter WebView</td>
 </tr>
 <tr>
-<td align="center"><b>25.09 ~</b><br><sub>재직중</sub></td>
-<td><img src="https://img.shields.io/badge/회사-2f81f7?style=flat-square"/><br><img src="https://api.iconify.design/lucide/building-2.svg?color=%23B1F767" width="15" align="center"/> <b>AI 에이전트 · 백엔드 엔지니어</b></td>
+<td align="center"><b>25.09 ~</b></td>
+<td><img src="https://img.shields.io/badge/회사-2f81f7?style=flat-square"/><br><b>AI 에이전트 · 백엔드 엔지니어</b></td>
 <td>· 사내 DB 연동 <b>MCP 서버</b> 개발·운영, <b>Claude 기반 업무 자동화 환경</b> 구축<br>· 대형 통신사 협업 서비스 핵심 아이디어 제안 → <b>채택되어 실제 개발로 전환</b><br>· MCP 서버·AI 에이전트 PoC 설계/시연, 금융권 협업 프로젝트 참여</td>
 </tr>
 <tr>
 <td align="center"><b>25.07</b></td>
-<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23B1F767" width="15" align="center"/> <b>AIerview / SOOP</b></td>
+<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><b>AIerview / SOOP</b></td>
 <td>· <b>AIerview</b> — 이력서 질문·피드백으로 면접을 준비하는 AI 사이트 (Gemini 2.5 · FastAPI · Render)<br>· <b>SOOP</b> — AI 심리테스트·이미지 생성 실험 사이트 (커스텀 도메인 · Vercel)</td>
 </tr>
 <tr>
-<td align="center"><b>25.04 ~ 25.06</b></td>
-<td><img src="https://img.shields.io/badge/교육-8b949e?style=flat-square"/><br><img src="https://api.iconify.design/lucide/code.svg?color=%23B1F767" width="15" align="center"/> <b>멋쟁이사자처럼<br>프론트엔드 부트캠프</b></td>
-<td>· 부트캠프 수료 및 <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> — HTML · CSS · JavaScript</td>
+<td align="center"><b>25.04 ~ 25.08</b></td>
+<td><img src="https://img.shields.io/badge/교육-8b949e?style=flat-square"/><br><b>멋쟁이사자처럼 프론트엔드 부트캠프</b></td>
+<td>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 취업으로 중도 하차</td>
 </tr>
 <tr>
 <td align="center"><b>24.09 ~ 25.06</b></td>
-<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><img src="https://api.iconify.design/lucide/rocket.svg?color=%23B1F767" width="15" align="center"/> <b><a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko">앱테크 '광부' 앱</a></b></td>
+<td><img src="https://img.shields.io/badge/사이드_프로젝트-B1F767?style=flat-square"/><br><b><a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko">앱테크 '광부' 앱</a></b></td>
 <td>· 기획·백엔드·운영 전담 (3인 팀) — <b>누적 다운로드 18,000+ · DAU 1,800</b><br>· FastAPI + Firebase 알림 + Redis 중복 요청 방지, 관리자 페이지·ERD 직접 설계</td>
 </tr>
 <tr>
 <td align="center"><b>23.01 ~ 25.03</b></td>
-<td><img src="https://img.shields.io/badge/회사-2f81f7?style=flat-square"/><br><img src="https://api.iconify.design/lucide/building.svg?color=%23B1F767" width="15" align="center"/> <b>AI / R&D 팀장</b></td>
+<td><img src="https://img.shields.io/badge/회사-2f81f7?style=flat-square"/><br><b>AI / R&D 팀장</b></td>
 <td>· <b><a href="https://github.com/beomwon/illegal_post_detection_AI">유해물 검출 AI</a></b> — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용<br>· <b>TIPS 선정 주도</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — <b>7억 원 투자 유치</b> (23.05)<br>· <a href="https://github.com/beomwon/osyulaeng">사내 점심 메뉴 추천 서비스</a> (Django · MariaDB), 연차 시스템 자동화 전사 도입</td>
 </tr>
 <tr>
 <td align="center"><b>22.06 ~ 22.12</b></td>
-<td><img src="https://img.shields.io/badge/교육-8b949e?style=flat-square"/><br><img src="https://api.iconify.design/lucide/bot.svg?color=%23B1F767" width="15" align="center"/> <b>광주인공지능사관학교</b></td>
+<td><img src="https://img.shields.io/badge/교육-8b949e?style=flat-square"/><br><b>광주인공지능사관학교</b></td>
 <td>· <b><a href="https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service">CCTV 이상행동 탐지</a></b> (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> <b>최우수상</b> — YOLOv7 · 텔레그램 자동 알림<br>· <b>AIDA 경진대회 본선</b> (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식<br>· <a href="https://github.com/beomwon/Emotional_Song_Recommendation_Service">감정 기반 노래 추천</a> — KoELECTRA · StyleGAN2</td>
 </tr>
 <tr>
 <td align="center"><b>14.03 ~ 22.02</b></td>
-<td><img src="https://img.shields.io/badge/학력-8b949e?style=flat-square"/><br><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23B1F767" width="15" align="center"/> <b>전북대학교<br>IT정보공학과</b></td>
+<td><img src="https://img.shields.io/badge/학력-8b949e?style=flat-square"/><br><b>전북대학교 IT정보공학과</b></td>
 <td>· 졸업작품: <b>Super Resolution을 이용한 블랙박스 화질 개선</b><br>· 나가사키대학교 AI 연구실 교환 프로그램 (2020)</td>
 </tr>
 </table>
