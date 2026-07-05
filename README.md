@@ -7,8 +7,6 @@
 
 <br>
 
-<a href="https://beomcoder.tistory.com/"><img src="https://img.shields.io/badge/Blog-beomcoder-B1F767?style=for-the-badge&logo=tistory&logoColor=black"/></a>
-<a href="mailto:viva.beom@gmail.com"><img src="https://img.shields.io/badge/Mail-viva.beom-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko"><img src="https://img.shields.io/badge/App-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=B1F767"/></a>
 
 </div>
@@ -19,7 +17,7 @@
 
 - 🤖 AI 모델을 만들고, 서비스로 배포하는 것을 좋아합니다
 - 🔧 딥러닝 기반 탐지/추천 서비스부터 백엔드 API, 앱까지 만들어 봤습니다
-- ✍️ 배운 것은 [블로그](https://beomcoder.tistory.com/)에 기록합니다
+- 🧩 백준·프로그래머스로 알고리즘을 꾸준히 풀고 있습니다
 
 <br>
 
@@ -43,14 +41,17 @@
 
 <br>
 
-## 🚀 Projects
+## 🚀 Projects & History
 
-| Project | Description | Stack |
-|---|---|---|
-| [CCTV 이상행동 감지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service) ⭐ | CCTV 영상에서 이상행동을 실시간 탐지하고 텔레그램으로 알림 | YOLOv7, Flask, Telegram |
-| [불법 게시물 탐지 AI](https://github.com/beomwon/illegal_post_detection_AI) | OCR + 딥러닝으로 불법 게시물을 자동 탐지 | Python, OCR, AWS EC2/RDS, MariaDB |
-| [감정 기반 노래 추천](https://github.com/beomwon/Emotional_Song_Recommendation_Service) | 감정 분석으로 노래를 추천하고 이미지를 생성 | KoELECTRA, StyleGAN2, VGG |
-| [광부앱](https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko) | Google Play에 출시한 모바일 앱 | 📱 Google Play |
+| Year | Project | Description | Stack |
+|:---:|---|---|---|
+| 2025 | [멋쟁이사자처럼 프론트엔드 부트캠프](https://github.com/beomwon/frontend_bootcamp_likelion) | 프론트엔드 부트캠프 수료 및 UI 팀 프로젝트 | HTML, CSS, JavaScript |
+| 2024 ~ | [광부앱](https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko) | Google Play에 출시하여 운영 중인 모바일 앱 | 📱 Google Play |
+| 2023 | [불법 게시물 탐지 AI](https://github.com/beomwon/illegal_post_detection_AI) | OCR + 딥러닝으로 불법 게시물을 자동 탐지 | Python, OCR, AWS EC2/RDS, MariaDB |
+| 2023 | [챗봇 서비스](https://github.com/beomwon/chatbot_using_API) | API와 형태소 분석을 활용한 챗봇 | Flask, OKT |
+| 2023 | [osyulaeng](https://github.com/beomwon/osyulaeng) | 크롤링 기반 알림/문자 발송 서비스 | Django, Selenium, Aligo |
+| 2022 | [감정 기반 노래 추천](https://github.com/beomwon/Emotional_Song_Recommendation_Service) | 감정 분석으로 노래를 추천하고 이미지를 생성 | KoELECTRA, StyleGAN2, VGG |
+| 2022 | [CCTV 이상행동 감지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service) ⭐ | CCTV 영상에서 이상행동을 실시간 탐지하고 텔레그램으로 알림 | YOLOv7, Flask, Telegram |
 
 <br>
 
