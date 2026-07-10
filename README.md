@@ -15,13 +15,7 @@
 
 <div align="center">
 
-<a href="https://goozik.vercel.app"><img src="https://img.shields.io/badge/goozik-채용공고_통합검색-B1F767?style=for-the-badge&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://nolab.kr"><img src="https://img.shields.io/badge/놀랩_NOLAB-심심풀이_테스트_연구소-B1F767?style=for-the-badge&labelColor=0d1117"/></a>
-
-<a href="https://gwangbu.life"><img src="https://img.shields.io/badge/광부-광고_보고_부자_되자-B1F767?style=for-the-badge&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://www.whochu.com"><img src="https://img.shields.io/badge/후추_Whochu-안심_신원_인증-B1F767?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://goozik.vercel.app"><img src="https://img.shields.io/badge/goozik-채용공고_통합검색-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://nolab.kr"><img src="https://img.shields.io/badge/놀랩_NOLAB-심심풀이_테스트_연구소-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://gwangbu.life"><img src="https://img.shields.io/badge/광부-광고_보고_부자_되자-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://www.whochu.com"><img src="https://img.shields.io/badge/후추_Whochu-안심_신원_인증-B1F767?style=flat-square&labelColor=0d1117"/></a>
 
 <sub>배지를 누르면 실제 서비스로 이동합니다</sub>
 
