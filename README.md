@@ -94,7 +94,7 @@
 <tr>
 <td align="center"><b>26.07 ~</b></td>
 <td><b><a href="https://bythonic.vercel.app">Bythonic</a></b> <img src="https://img.shields.io/badge/바이브코딩-B1F767?style=flat-square" align="center"/><br><sub>AI 인터뷰 에이전트 자기소개 사이트</sub></td>
-<td>· <b>AI 에이전트가 저 대신 면접 질문에 1인칭으로 답변</b>하는 자기소개·포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 Vercel 서버리스 함수로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
+<td>· <b>AI 에이전트가 나 대신 면접 질문에 1인칭으로 답변</b>하는 자기소개·포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 Vercel 서버리스 함수로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
