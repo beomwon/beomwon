@@ -8,18 +8,7 @@
 - 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 운영했습니다
 - 요즘은 **에르메스 엔지니어링**과 **루프 엔지니어링**을 공부하고 있습니다
 - 백준·프로그래머스로 **알고리즘** 문제를 풀며 기본기를 다졌습니다
-
-<br>
-
-## <img src="https://api.iconify.design/lucide/globe.svg?color=%23B1F767" width="24" align="center"/> Live Services
-
-<div align="center">
-
-<a href="https://goozik.vercel.app"><img src="https://img.shields.io/badge/goozik-채용공고_통합검색-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://nolab.kr"><img src="https://img.shields.io/badge/놀랩_NOLAB-심심풀이_테스트_연구소-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://gwangbu.life"><img src="https://img.shields.io/badge/광부-광고_보고_부자_되자-B1F767?style=flat-square&labelColor=0d1117"/></a> <a href="https://www.whochu.com"><img src="https://img.shields.io/badge/후추_Whochu-안심_신원_인증-B1F767?style=flat-square&labelColor=0d1117"/></a>
-
-<sub>배지를 누르면 실제 서비스로 이동합니다</sub>
-
-</div>
+- 퇴근하면 **바이브코딩**을 하며 최신 기술을 써보고 공부하는 취미가 있습니다
 
 <br>
 
