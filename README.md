@@ -108,6 +108,16 @@
 <td>· <b>AI 에이전트가 저 대신 면접 질문에 1인칭으로 답변</b>하는 자기소개·포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 Vercel 서버리스 함수로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
 </tr>
 <tr>
+<td align="center"><b>26.07 ~</b></td>
+<td><b><a href="https://goozik.vercel.app">goozik</a></b><br><sub>AI 채용진단 · 채용공고 통합검색</sub></td>
+<td>· <b>6개 구직 플랫폼과 청년정책을 한곳에서 검색</b>하는 통합 구직 사이트<br>· 공고·이력서(URL/PDF)를 <b>AI가 분석해 상세 컨설팅</b> 제공<br>· AI 에이전트를 활용해 <b>3일 만에 개발</b> — Next.js · Gemini API · Vercel</td>
+</tr>
+<tr>
+<td align="center"><b>26.07 ~</b></td>
+<td><b><a href="https://nolab.kr">놀랩 (NOLAB)</a></b><br><sub>심심풀이 테스트 연구소</sub></td>
+<td>· AI 에이전트로 <b>약 3시간 만에 개발·배포</b>한 심리테스트 사이트<br>· 재미있는 테스트 기반 <b>설문 리서치 채널 실험</b> 운영 중<br>· Next.js · 커스텀 도메인(nolab.kr)</td>
+</tr>
+<tr>
 <td align="center"><b>26.06 ~</b></td>
 <td><b><a href="https://www.whochu.com">후추 (Whochu)</a></b><br><sub>안심 신원 인증 서비스</sub></td>
 <td><b><a href="https://www.modoo.or.kr/member/espero">모두의 창업 1차 선정</a></b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — 아이디어·설계부터 개발까지 1인 수행<br>· 퇴근 후 <b>AI 에이전트를 활용해 3일 만에 개발</b><br>· KCP 본인인증 + 사기 이력 조회 통합, 소셜 로그인 4종 자체 JWT 연동<br>· Next.js 15 · Supabase · 토스페이먼츠 · Flutter WebView</td>
