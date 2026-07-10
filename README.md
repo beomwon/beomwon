@@ -124,7 +124,7 @@
 <tr>
 <td align="center"><b>25.07</b></td>
 <td><b>AIerview / SOOP</b></td>
-<td>· <b>AIerview</b> — 이력서 질문·피드백으로 면접을 준비하는 AI 사이트 (Gemini 2.5 · FastAPI · Render)<br>· <b>SOOP</b> — AI 심리테스트·이미지 생성 실험 사이트 (커스텀 도메인 · Vercel)</td>
+<td>· <b>AIerview</b> — 이력서 질문·피드백으로 면접을 준비하는 AI 사이트 (Gemini 2.5 · FastAPI · Render)<br>· <b>SOOP</b> — AI 심리테스트·이미지 생성 실험 사이트 (커스텀 도메인 · Vercel)<br>· AIerview의 AI 이력서 피드백은 <b><a href="https://goozik.vercel.app">goozik</a></b>으로, SOOP의 심리테스트는 <b><a href="https://nolab.kr">놀랩 (NOLAB)</a></b>으로 발전</td>
 </tr>
 <tr>
 <td align="center"><b>24.09 ~ 25.06</b></td>
