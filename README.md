@@ -1,48 +1,43 @@
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="24" align="center"/> About Me
+**AI 에이전트 · MCP 서버 · 백엔드 엔지니어**
 
-- **AI 에이전트 · MCP 서버 · 딥러닝 서비스**를 만드는 백엔드 개발자입니다
+사내 업무를 AI 에이전트로 자동화하고, 퇴근 후에는 직접 서비스를 만들어 배포합니다.
+
+<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Ask_My_AI_Agent-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
+
+<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요. 제 이력에 대한 질문은 <a href="https://bythonic.vercel.app">Bythonic</a>에서 AI 에이전트가 저 대신 답해드립니다.</sub>
+
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="22" align="center"/> About
+
 - 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 **DAU 1,800**까지 운영했습니다
 - 요즘은 **에이전트 하네스(harness)와 루프 설계** — AI 에이전트가 스스로 일하는 실행 환경을 어떻게 짜야 하는지를 파고들고 있습니다
 - 퇴근하면 **바이브코딩**으로 만들고 싶던 걸 만듭니다. 아래 프로젝트 대부분이 그렇게 나왔습니다
 
-<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Ask_My_AI_Agent-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23B1F767" width="22" align="center"/> Tech Stack
 
-<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요. 제 이력에 대한 질문은 <a href="https://bythonic.vercel.app">Bythonic</a>에서 AI 에이전트가 저 대신 답해드립니다.</sub>
+<table>
+<tr>
+<th width="130" align="left">AI / Agent</th>
+<td>MCP · Claude · Gemini API</td>
+</tr>
+<tr>
+<th align="left">Backend</th>
+<td>Python · FastAPI · Django · PostgreSQL · Redis · Supabase · Firebase</td>
+</tr>
+<tr>
+<th align="left">ML</th>
+<td>PyTorch · OpenCV · Jupyter</td>
+</tr>
+<tr>
+<th align="left">Frontend</th>
+<td>Next.js · React · TypeScript <sub>— AI 에이전트와 함께 배포·운영</sub></td>
+</tr>
+<tr>
+<th align="left">Infra</th>
+<td>Docker · AWS · Google Cloud · Vercel</td>
+</tr>
+</table>
 
-<br>
-
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23B1F767" width="24" align="center"/> Tech Stack
-
-<div align="center">
-
-**AI Agent / LLM**
-
-<img src="https://img.shields.io/badge/MCP-B1F767?style=flat-square&logo=modelcontextprotocol&logoColor=black"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-
-**Frontend** <sub>AI 에이전트와 함께 프로덕션 서비스를 배포·운영합니다</sub>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-**Infra**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-</div>
-
-<br>
-
-## <img src="https://api.iconify.design/lucide/history.svg?color=%23B1F767" width="24" align="center"/> Timeline
-
-### <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232f81f7" width="20" align="center"/> 경력
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23B1F767" width="22" align="center"/> 경력
 
 <table>
 <tr>
@@ -56,18 +51,15 @@
 <td>· 사내 DB 연동 <b>MCP 서버</b> 개발·운영, <b>Claude 기반 업무 자동화 환경</b> 구축<br>· 대형 통신사 협업 서비스 핵심 아이디어 제안 → <b>채택되어 실제 개발로 전환</b><br>· MCP 서버·AI 에이전트 PoC 설계/시연, 금융권 협업 프로젝트 참여</td>
 </tr>
 <tr>
-<td align="center"><b>25.04 ~ 25.08</b></td>
-<td><b>멋쟁이사자처럼 프론트엔드 부트캠프</b><br><sub>커리어 전환 학습</sub></td>
-<td>· AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강<br>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 수강 중 현 직장 합류가 확정되어 중도 하차</td>
-</tr>
-<tr>
 <td align="center"><b>23.01 ~ 25.03</b></td>
 <td><b>AI / R&D 팀장</b></td>
-<td>· <b><a href="https://github.com/beomwon/illegal_post_detection_AI">유해물 검출 AI</a></b> — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용<br>· <b>TIPS 선정 주도</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — <b>7억 원 투자 유치</b> (23.05)<br>· <a href="https://github.com/beomwon/osyulaeng">사내 점심 메뉴 추천 서비스</a> (Django · MariaDB), 연차 시스템 자동화 전사 도입</td>
+<td>· <b>TIPS 선정 주도</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — <b>AI 분야로 선정되어 7억 원 투자 유치</b> (23.05)<br>· <b><a href="https://github.com/beomwon/illegal_post_detection_AI">유해물 검출 AI</a></b> — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용</td>
 </tr>
 </table>
 
-### <img src="https://api.iconify.design/lucide/rocket.svg?color=%23B1F767" width="20" align="center"/> 프로젝트
+<sub>25.04 ~ 25.08은 프론트엔드 부트캠프 수강 기간입니다 — 아래 <b>교육</b> 참고.</sub>
+
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23B1F767" width="22" align="center"/> 프로젝트
 
 <table>
 <tr>
@@ -98,29 +90,59 @@
 </table>
 
 <details>
-<summary><b>그 외 프로젝트 5개</b> — AI 에이전트와 함께 만들어 배포한 실험작들 (펼치기)</summary>
+<summary><b>그 외 프로젝트 5개</b> — AI 에이전트와 함께 만들어 배포한 실험작들</summary>
 
 <br>
 
-| Period | Project | Description | Stack |
-|---|---|---|---|
-| **26.07** | **[Bythonic](https://bythonic.vercel.app)** | AI 에이전트가 저 대신 면접 질문에 1인칭으로 답하는 자기소개·포트폴리오 사이트. Gemini 스트리밍(SSE) 채팅 + 무료 티어 **멀티 모델 폴백 체인**, 백엔드 서버 없이 서버리스로 운영 | React · TypeScript · Vite · Vercel Functions |
-| **26.07** | **[goozik](https://goozik.vercel.app)** | **6개 구직 플랫폼과 청년정책을 한곳에서 검색**하는 통합 구직 사이트. 공고·이력서(URL/PDF)를 AI가 분석해 상세 컨설팅 제공 | Next.js · Gemini API · Vercel |
-| **26.07** | **[beomwons](https://beomwons.vercel.app)** | 긱뉴스·핫딜·편의점 신상을 한 페이지에 모아보는 개인 대시보드. **7개 소스 서버사이드 크롤링** | Next.js · Vercel |
-| **26.07** | **[Trend Hub](https://trend-hub-mocha.vercel.app)** | 유튜브·틱톡·X 등 **6개 플랫폼 트렌드를 15개국별로 조회**. 회사 마케터의 요청에서 출발 | Next.js · Open API |
-| **25.07** | **AIerview / SOOP** | **AIerview** — 이력서 질문·피드백으로 면접을 준비하는 AI 사이트 / **SOOP** — AI 심리테스트·이미지 생성 실험 사이트. 각각 **[goozik](https://goozik.vercel.app)**, **[놀랩](https://nolab.kr)**으로 발전 | Gemini 2.5 · FastAPI · Render · Vercel |
+<table>
+<tr>
+<th width="120">Period</th>
+<th width="230">Project</th>
+<th>Description</th>
+</tr>
+<tr>
+<td align="center"><b>26.07</b></td>
+<td><b><a href="https://bythonic.vercel.app">Bythonic</a></b><br><sub>AI 인터뷰 에이전트 자기소개 사이트</sub></td>
+<td>· AI 에이전트가 저 대신 면접 질문에 1인칭으로 답하는 포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 서버리스로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
+</tr>
+<tr>
+<td align="center"><b>26.07</b></td>
+<td><b><a href="https://goozik.vercel.app">goozik</a></b><br><sub>AI 채용진단 · 채용공고 통합검색</sub></td>
+<td>· <b>6개 구직 플랫폼과 청년정책을 한곳에서 검색</b>하는 통합 구직 사이트<br>· 공고·이력서(URL/PDF)를 AI가 분석해 상세 컨설팅 제공<br>· Next.js · Gemini API · Vercel</td>
+</tr>
+<tr>
+<td align="center"><b>26.07</b></td>
+<td><b><a href="https://beomwons.vercel.app">beomwons</a></b><br><sub>개인 대시보드</sub></td>
+<td>· 긱뉴스·핫딜·편의점 신상을 한 페이지에 모아보는 개인 대시보드<br>· <b>7개 소스 서버사이드 크롤링</b><br>· Next.js · Vercel</td>
+</tr>
+<tr>
+<td align="center"><b>26.07</b></td>
+<td><b><a href="https://trend-hub-mocha.vercel.app">Trend Hub</a></b><br><sub>트렌드 대시보드</sub></td>
+<td>· 유튜브·틱톡·X 등 <b>6개 플랫폼 트렌드를 15개국별로 조회</b><br>· 회사 마케터의 요청에서 출발<br>· Next.js · Open API</td>
+</tr>
+<tr>
+<td align="center"><b>25.07</b></td>
+<td><b>AIerview / SOOP</b></td>
+<td>· <b>AIerview</b> — 이력서 질문·피드백으로 면접을 준비하는 AI 사이트 (Gemini 2.5 · FastAPI · Render)<br>· <b>SOOP</b> — AI 심리테스트·이미지 생성 실험 사이트 (커스텀 도메인 · Vercel)<br>· AIerview의 이력서 피드백은 <a href="https://goozik.vercel.app">goozik</a>으로, SOOP의 심리테스트는 <a href="https://nolab.kr">놀랩</a>으로 발전</td>
+</tr>
+</table>
 
-<sub>🔒 beomwons · Trend Hub는 비공개 데모입니다. 계정이 필요하시면 메일로 요청해주세요.</sub>
+<sub>beomwons · Trend Hub는 비공개 데모입니다. 계정이 필요하시면 메일로 요청해주세요.</sub>
 
 </details>
 
-### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="20" align="center"/> 교육
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23B1F767" width="22" align="center"/> 교육
 
 <table>
 <tr>
 <th width="120">Period</th>
 <th width="230">Course</th>
 <th>Description</th>
+</tr>
+<tr>
+<td align="center"><b>25.04 ~ 25.08</b></td>
+<td><b>멋쟁이사자처럼 프론트엔드 부트캠프</b></td>
+<td>· AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강<br>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 수강 중 현 직장 합류가 확정되어 중도 하차</td>
 </tr>
 <tr>
 <td align="center"><b>22.06 ~ 22.12</b></td>
@@ -133,11 +155,3 @@
 <td>· 졸업작품: <b>Super Resolution을 이용한 블랙박스 화질 개선</b><br>· 나가사키대학교 AI 연구실 교환 프로그램 (2020)</td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/beomwon/beomwon/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
