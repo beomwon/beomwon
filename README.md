@@ -93,8 +93,8 @@
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
-<td><b><a href="https://wikidocs.net/book/20726">바이브코딩, 배포까지 완주</a></b><br><sub>위키독스 전자책 · 2권 집필</sub></td>
-<td>· <b>AI가 짜준 코드를 localhost 밖으로 내보내는 법</b>을 다루는 비개발자용 입문서<br>· <b>1권</b> 「배포까지 완주」 (12장 54절) — GitHub · Vercel · Neon · 도메인 연결 · HTTPS, 총비용은 도메인 값뿐<br>· <b>2권</b> 「배포 다음의 세계」 (12장 66절) — 카카오맵 · 기상청 API 연동과 <b>관리자 페이지로 운영하기</b><br>· 원고 · 본문 다이어그램 전부 <a href="https://github.com/beomwon/wikidocs">GitHub</a>에서 버전 관리</td>
+<td><b><a href="https://wikidocs.net/book/20726">바이브코딩 시리즈</a></b><br><sub>위키독스 전자책 · 2권 연재 중</sub></td>
+<td>· <b>AI가 짜준 코드를 localhost 밖으로 내보내는 법</b>을 다루는 비개발자용 입문서<br>· <b>1권</b> <a href="https://wikidocs.net/book/20726">「배포까지 완주」</a> (12장 54절) — GitHub · Vercel · Neon · 도메인 연결 · HTTPS, 총비용은 도메인 값뿐<br>· <b>2권</b> <a href="https://wikidocs.net/book/20732">「배포 다음의 세계」</a> (12장 66절) — 카카오맵 · 기상청 API 연동과 <b>관리자 페이지로 운영하기</b><br>· 원고 · 본문 다이어그램 전부 <a href="https://github.com/beomwon/wikidocs">GitHub</a>에서 버전 관리</td>
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
