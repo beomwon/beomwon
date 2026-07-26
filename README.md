@@ -2,30 +2,30 @@
 
 사내 업무를 AI 에이전트로 자동화하고, 퇴근 후에는 직접 서비스를 만들어 배포합니다.
 
-<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Ask_My_AI_Agent-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
+<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
 
-<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요. 제 이력에 대한 질문은 <a href="https://bythonic.vercel.app">Bythonic</a>에서 AI 에이전트가 저 대신 답해드립니다.</sub>
+<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요. <a href="https://bythonic.vercel.app">Bythonic</a>은 경력과 프로젝트를 정리해둔 제 포트폴리오 사이트입니다 — 더 궁금한 점은 사이트 안의 AI 에이전트에게 물어보셔도 됩니다.</sub>
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23B1F767" width="22" align="center"/> About
+## <img src="https://api.iconify.design/lucide/user.svg?color=%237d8590" width="18" align="center"/> About
 
 - 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 **DAU 1,800**까지 운영했습니다
 - 요즘은 **에이전트 하네스(harness)와 루프 설계** — AI 에이전트가 스스로 일하는 실행 환경을 어떻게 짜야 하는지를 파고들고 있습니다
 - 퇴근하면 **바이브코딩**으로 만들고 싶던 걸 만듭니다. 아래 프로젝트 대부분이 그렇게 나왔습니다
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23B1F767" width="22" align="center"/> Tech Stack
+## <img src="https://api.iconify.design/lucide/terminal.svg?color=%237d8590" width="18" align="center"/> Tech Stack
 
 <table>
 <tr>
 <th width="130" align="left">AI / Agent</th>
-<td>MCP · Claude · Gemini API</td>
+<td>MCP · Claude · Gemini · ChatGPT</td>
 </tr>
 <tr>
 <th align="left">Backend</th>
-<td>Python · FastAPI · Django · PostgreSQL · Redis · Supabase · Firebase</td>
+<td>Python · FastAPI · Django · PostgreSQL · Redis · Firebase</td>
 </tr>
 <tr>
 <th align="left">ML</th>
-<td>PyTorch · OpenCV · Jupyter</td>
+<td>PyTorch · OpenCV</td>
 </tr>
 <tr>
 <th align="left">Frontend</th>
@@ -33,11 +33,11 @@
 </tr>
 <tr>
 <th align="left">Infra</th>
-<td>Docker · AWS · Google Cloud · Vercel</td>
+<td>AWS · GCP · Azure · NCP · Docker · Vercel</td>
 </tr>
 </table>
 
-## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23B1F767" width="22" align="center"/> 경력
+## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
 <table>
 <tr>
@@ -59,7 +59,7 @@
 
 <sub>25.04 ~ 25.08은 프론트엔드 부트캠프 수강 기간입니다 — 아래 <b>교육</b> 참고.</sub>
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23B1F767" width="22" align="center"/> 프로젝트
+## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%237d8590" width="18" align="center"/> 프로젝트
 
 <table>
 <tr>
@@ -69,13 +69,13 @@
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
-<td><b><a href="https://github.com/beomwon/wikidocs">바이브코딩 시리즈</a></b><br><sub>위키독스 전자책 · 2권 연재 중</sub></td>
-<td>· <b>AI가 짜준 코드를 localhost 밖으로 내보내는 법</b>을 다루는 비개발자용 입문서 — <a href="https://wikidocs.net/profile/info/book/38497">위키독스에서 보기</a><br>· <b>1권</b> 「배포까지 완주」 (12장 54절) — GitHub · Vercel · Neon · 도메인 연결 · HTTPS, 총비용은 도메인 값뿐<br>· <b>2권</b> 「배포 다음의 세계」 (12장 66절) — 카카오맵 · 기상청 API 연동과 <b>관리자 페이지로 운영하기</b><br>· 원고 · 본문 다이어그램 전부 저장소에서 버전 관리</td>
+<td><b><a href="https://github.com/beomwon/wikidocs">바이브코딩 시리즈</a></b><br><sub>비개발자용 배포 입문 전자책</sub></td>
+<td>· <b>AI가 짜준 코드를 localhost 밖으로 내보내는 법</b>을 다루는 위키독스 연재 시리즈 — <a href="https://wikidocs.net/profile/info/book/38497">위키독스에서 보기</a><br>· 배포 · 도메인 · HTTPS에서 시작해 외부 API 연동, 관리자 페이지 운영까지 한 권씩 주제를 이어갑니다<br>· 현재 2권 공개, 계속 연재 중 — 원고·본문 다이어그램 전부 저장소에서 버전 관리</td>
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
 <td><b><a href="https://nolab.kr">놀랩 (NOLAB)</a></b><br><sub>심심풀이 테스트 연구소</sub></td>
-<td>· AI 에이전트와 함께 만들어 <b>자체 도메인으로 운영 중</b>인 심리테스트 사이트<br>· 가벼운 테스트로 사람을 모아 <b>설문 리서치 채널로 잇는 실험</b> 진행 중<br>· Next.js · Vercel · 커스텀 도메인(nolab.kr)</td>
+<td>· AI 에이전트와 함께 만들어 <b>자체 도메인으로 운영 중</b>인 심리테스트 사이트<br>· <b>콘텐츠 생성·발행을 자동화</b> — 에이전트가 테스트를 만들어 발행하고, 저는 <b>HITL로 메인 노출·수정·폐기만 판단</b>합니다<br>· 가벼운 테스트로 사람을 모아 <b>설문 리서치 채널로 잇는 실험</b> 진행 중<br>· Next.js · Vercel · 커스텀 도메인(nolab.kr)</td>
 </tr>
 <tr>
 <td align="center"><b>26.06 ~</b></td>
@@ -84,8 +84,8 @@
 </tr>
 <tr>
 <td align="center"><b>24.09 ~ 25.06</b></td>
-<td><b><a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko">앱테크 '광부' 앱</a></b><br><sub>Google Play 출시 · 3인 팀</sub></td>
-<td>· 기획·백엔드·운영 전담 — <b>누적 다운로드 18,000+ · DAU 1,800</b><br>· FastAPI · Firebase 푸시 알림 · Redis 중복 요청 방지, 관리자 페이지·ERD 직접 설계<br>· 본업과 병행해 <b>10개월간 실사용자 대상으로 운영</b></td>
+<td><b><a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko">앱테크 '광부' 앱</a></b><br><sub>포인트 적립형 앱테크 서비스</sub></td>
+<td>· 기획·백엔드·운영 전담 — <b>누적 다운로드 18,000+ · DAU 1,800</b><br>· <b>App Store · Google Play 양대 마켓 출시</b>, 3인 팀에서 본업과 병행해 <b>10개월간 실사용자 대상으로 운영</b><br>· FastAPI · Firebase 푸시 알림 · Redis 중복 요청 방지, 관리자 페이지·ERD 직접 설계</td>
 </tr>
 </table>
 
@@ -102,8 +102,8 @@
 </tr>
 <tr>
 <td align="center"><b>26.07</b></td>
-<td><b><a href="https://bythonic.vercel.app">Bythonic</a></b><br><sub>AI 인터뷰 에이전트 자기소개 사이트</sub></td>
-<td>· AI 에이전트가 저 대신 면접 질문에 1인칭으로 답하는 포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 서버리스로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
+<td><b><a href="https://bythonic.vercel.app">Bythonic</a></b><br><sub>포트폴리오 사이트</sub></td>
+<td>· 경력·프로젝트를 정리한 포트폴리오 사이트 — 더 궁금한 점은 <b>AI 에이전트가 1인칭으로 답변</b>합니다<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 서버리스로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
 </tr>
 <tr>
 <td align="center"><b>26.07</b></td>
@@ -131,7 +131,9 @@
 
 </details>
 
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23B1F767" width="22" align="center"/> 교육
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%237d8590" width="18" align="center"/> 교육
+
+**부트캠프 · 교육과정**
 
 <table>
 <tr>
@@ -149,9 +151,19 @@
 <td><b>광주인공지능사관학교</b></td>
 <td>· <b><a href="https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service">CCTV 이상행동 탐지</a></b> (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> <b>최우수상</b> — YOLOv7 · 텔레그램 자동 알림<br>· <b>AIDA 경진대회 본선</b> (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식<br>· <a href="https://github.com/beomwon/Emotional_Song_Recommendation_Service">감정 기반 노래 추천</a> — KoELECTRA · StyleGAN2</td>
 </tr>
+</table>
+
+**학력**
+
+<table>
+<tr>
+<th width="120">Period</th>
+<th width="230">School</th>
+<th>Description</th>
+</tr>
 <tr>
 <td align="center"><b>14.03 ~ 22.02</b></td>
-<td><b>전북대학교 IT정보공학과</b></td>
+<td><b>전북대학교 IT정보공학과</b><br><sub>학사</sub></td>
 <td>· 졸업작품: <b>Super Resolution을 이용한 블랙박스 화질 개선</b><br>· 나가사키대학교 AI 연구실 교환 프로그램 (2020)</td>
 </tr>
 </table>
