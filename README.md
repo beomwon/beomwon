@@ -5,7 +5,7 @@
 - 요즘은 **에이전트 하네스(harness)와 루프 설계** — AI 에이전트가 스스로 일하는 실행 환경을 어떻게 짜야 하는지를 파고들고 있습니다
 - 퇴근하면 **바이브코딩**으로 만들고 싶던 걸 만듭니다. 아래 프로젝트 대부분이 그렇게 나왔습니다
 
-<a href="mailto:espero.yunho@gmail.com"><img src="https://img.shields.io/badge/espero.yunho@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Ask_My_AI_Agent-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
 
 <sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요. 제 이력에 대한 질문은 <a href="https://bythonic.vercel.app">Bythonic</a>에서 AI 에이전트가 저 대신 답해드립니다.</sub>
