@@ -115,15 +115,15 @@
 ### 멋쟁이사자처럼 프론트엔드 부트캠프 <sub>25.04 ~ 25.08</sub>
 
 - AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강
-- **[UI 팀 프로젝트](https://github.com/beomwon/likelion-project-ui)** — 나이키 공식 사이트 클론, 5인 팀에서 메인 페이지 담당 (HTML · CSS · JavaScript · Vite)
+- **[UI 팀 프로젝트](https://github.com/beomwon/bootcamp/tree/main/likelion-frontend/project-ui)** — 나이키 공식 사이트 클론, 5인 팀에서 메인 페이지 담당 (HTML · CSS · JavaScript · Vite)
 - 수강 중 현 직장 합류가 확정되어 중도 하차
 
 ### 광주인공지능사관학교 <sub>22.06 ~ 22.12</sub>
 
 - **[CCTV 이상행동 탐지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service)** (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> **최우수상** — YOLOv7 · 텔레그램 자동 알림
 - **AIDA 경진대회 본선** (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식
-- [감정 기반 노래 추천](https://github.com/beomwon/gwangju-ai-school/tree/main/emotional-song-recommendation) — KoELECTRA · StyleGAN2
-- 그 외 이 시기 프로젝트·학습 기록은 [gwangju-ai-school](https://github.com/beomwon/gwangju-ai-school)에 모아두었습니다
+- [감정 기반 노래 추천](https://github.com/beomwon/bootcamp/tree/main/gwangju-ai-school/emotional-song-recommendation) — KoELECTRA · StyleGAN2
+- 그 외 부트캠프 기간의 프로젝트·과제는 [bootcamp](https://github.com/beomwon/bootcamp)에 모아두었습니다
 
 ## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237d8590" width="18" align="center"/> 학력
 
