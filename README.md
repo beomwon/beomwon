@@ -97,12 +97,12 @@
 <td>· <b>AI가 짜준 코드를 localhost 밖으로 내보내는 법</b>을 다루는 비개발자용 입문서 — <a href="https://wikidocs.net/profile/info/book/38497">위키독스에서 보기</a><br>· <b>1권</b> 「배포까지 완주」 (12장 54절) — GitHub · Vercel · Neon · 도메인 연결 · HTTPS, 총비용은 도메인 값뿐<br>· <b>2권</b> 「배포 다음의 세계」 (12장 66절) — 카카오맵 · 기상청 API 연동과 <b>관리자 페이지로 운영하기</b><br>· 원고 · 본문 다이어그램 전부 저장소에서 버전 관리</td>
 </tr>
 <tr>
-<td align="center"><b>26.07 ~</b></td>
+<td align="center"><b>26.07</b></td>
 <td><b><a href="https://bythonic.vercel.app">Bythonic</a></b><br><sub>AI 인터뷰 에이전트 자기소개 사이트</sub></td>
 <td>· <b>AI 에이전트가 저 대신 면접 질문에 1인칭으로 답변</b>하는 자기소개·포트폴리오 사이트<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 Vercel 서버리스 함수로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
 </tr>
 <tr>
-<td align="center"><b>26.07 ~</b></td>
+<td align="center"><b>26.07</b></td>
 <td><b><a href="https://goozik.vercel.app">goozik</a></b><br><sub>AI 채용진단 · 채용공고 통합검색</sub></td>
 <td>· <b>6개 구직 플랫폼과 청년정책을 한곳에서 검색</b>하는 통합 구직 사이트<br>· 공고·이력서(URL/PDF)를 <b>AI가 분석해 상세 컨설팅</b> 제공<br>· AI 에이전트를 활용해 <b>3일 만에 개발</b> — Next.js · Gemini API · Vercel</td>
 </tr>
