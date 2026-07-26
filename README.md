@@ -19,23 +19,27 @@
 
 <table>
 <tr>
-<th width="130" align="left">AI / Agent</th>
-<td width="700">MCP · Claude · Gemini · ChatGPT</td>
+<th width="120">Category</th>
+<th width="930">Stack</th>
 </tr>
 <tr>
-<th align="left">Backend</th>
+<td align="center"><b>AI / Agent</b></td>
+<td>MCP · Claude · Gemini · ChatGPT</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
 <td>Python · FastAPI · Django · PostgreSQL · Redis · Firebase</td>
 </tr>
 <tr>
-<th align="left">ML</th>
+<td align="center"><b>ML</b></td>
 <td>PyTorch · OpenCV</td>
 </tr>
 <tr>
-<th align="left">Frontend</th>
+<td align="center"><b>Frontend</b></td>
 <td>Next.js · React · TypeScript <sub>— AI 에이전트와 함께 배포·운영</sub></td>
 </tr>
 <tr>
-<th align="left">Infra</th>
+<td align="center"><b>Infra</b></td>
 <td>AWS · GCP · Azure · NCP · Docker · Vercel</td>
 </tr>
 </table>
