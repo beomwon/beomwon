@@ -122,7 +122,8 @@
 
 - **[CCTV 이상행동 탐지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service)** (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> **최우수상** — YOLOv7 · 텔레그램 자동 알림
 - **AIDA 경진대회 본선** (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식
-- [감정 기반 노래 추천](https://github.com/beomwon/Emotional_Song_Recommendation_Service) — KoELECTRA · StyleGAN2
+- [감정 기반 노래 추천](https://github.com/beomwon/gwangju-ai-school/tree/main/emotional-song-recommendation) — KoELECTRA · StyleGAN2
+- 그 외 이 시기 프로젝트·학습 기록은 [gwangju-ai-school](https://github.com/beomwon/gwangju-ai-school)에 모아두었습니다
 
 ## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237d8590" width="18" align="center"/> 학력
 
