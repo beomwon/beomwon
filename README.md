@@ -115,7 +115,7 @@
 ### 멋쟁이사자처럼 프론트엔드 부트캠프 <sub>25.04 ~ 25.08</sub>
 
 - AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강
-- **[UI 팀 프로젝트](https://github.com/beomwon/frontend_bootcamp_likelion)** 등 진행 — HTML · CSS · JavaScript
+- **[UI 팀 프로젝트](https://github.com/beomwon/likelion-project-ui)** — 나이키 공식 사이트 클론, 5인 팀에서 메인 페이지 담당 (HTML · CSS · JavaScript · Vite)
 - 수강 중 현 직장 합류가 확정되어 중도 하차
 
 ### 광주인공지능사관학교 <sub>22.06 ~ 22.12</sub>
