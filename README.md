@@ -17,52 +17,24 @@
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%237d8590" width="18" align="center"/> Tech Stack
 
-<table>
-<tr>
-<th width="120">Category</th>
-<th width="930">Stack</th>
-</tr>
-<tr>
-<td align="center"><b>AI / Agent</b></td>
-<td>MCP · Claude · Gemini · ChatGPT</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>Python · FastAPI · Django · PostgreSQL · Redis · Firebase</td>
-</tr>
-<tr>
-<td align="center"><b>ML</b></td>
-<td>PyTorch · OpenCV</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>Next.js · React · TypeScript <sub>— AI 에이전트와 함께 배포·운영</sub></td>
-</tr>
-<tr>
-<td align="center"><b>Infra</b></td>
-<td>AWS · GCP · Azure · NCP · Docker · Vercel</td>
-</tr>
-</table>
+- **AI / Agent** — MCP · Claude · Gemini · ChatGPT
+- **Backend** — Python · FastAPI · Django · PostgreSQL · Redis · Firebase
+- **ML** — PyTorch · OpenCV
+- **Frontend** — Next.js · React · TypeScript <sub>(AI 에이전트와 함께 배포·운영)</sub>
+- **Infra** — AWS · GCP · Azure · NCP · Docker · Vercel
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
-<table>
-<tr>
-<th width="120">Period</th>
-<th width="230">Role</th>
-<th width="700">Description</th>
-</tr>
-<tr>
-<td align="center"><b>25.09 ~</b></td>
-<td><b>AI 에이전트 · 백엔드 엔지니어</b></td>
-<td>· 사내 DB 연동 <b>MCP 서버</b> 개발·운영, <b>Claude 기반 업무 자동화 환경</b> 구축<br>· 대형 통신사 협업 서비스 핵심 아이디어 제안 → <b>채택되어 실제 개발로 전환</b><br>· MCP 서버·AI 에이전트 PoC 설계/시연, 금융권 협업 프로젝트 참여</td>
-</tr>
-<tr>
-<td align="center"><b>23.01 ~ 25.03</b></td>
-<td><b>AI / R&D 팀장</b></td>
-<td>· <b>TIPS 선정 주도</b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — <b>AI 분야로 선정되어 7억 원 투자 유치</b> (23.05)<br>· <b><a href="https://github.com/beomwon/illegal_post_detection_AI">유해물 검출 AI</a></b> — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용</td>
-</tr>
-</table>
+### AI 에이전트 · 백엔드 엔지니어 <sub>25.09 ~ 현재</sub>
+
+- 사내 DB 연동 **MCP 서버** 개발·운영, **Claude 기반 업무 자동화 환경** 구축
+- 대형 통신사 협업 서비스 핵심 아이디어 제안 → **채택되어 실제 개발로 전환**
+- MCP 서버·AI 에이전트 PoC 설계/시연, 금융권 협업 프로젝트 참여
+
+### AI / R&D 팀장 <sub>23.01 ~ 25.03</sub>
+
+- **TIPS 선정 주도** <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — **AI 분야로 선정되어 7억 원 투자 유치** (23.05)
+- **[유해물 검출 AI](https://github.com/beomwon/illegal_post_detection_AI)** — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용
 
 <sub>25.04 ~ 25.08은 프론트엔드 부트캠프 수강 기간입니다 — 아래 <b>교육</b> 참고.</sub>
 
@@ -140,37 +112,21 @@
 
 ## <img src="https://api.iconify.design/lucide/book-open.svg?color=%237d8590" width="18" align="center"/> 교육
 
-**부트캠프 · 교육과정**
+### 멋쟁이사자처럼 프론트엔드 부트캠프 <sub>25.04 ~ 25.08</sub>
 
-<table>
-<tr>
-<th width="120">Period</th>
-<th width="230">Course</th>
-<th width="700">Description</th>
-</tr>
-<tr>
-<td align="center"><b>25.04 ~ 25.08</b></td>
-<td><b>멋쟁이사자처럼 프론트엔드 부트캠프</b></td>
-<td>· AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강<br>· <b><a href="https://github.com/beomwon/frontend_bootcamp_likelion">UI 팀 프로젝트</a></b> 등 진행 — HTML · CSS · JavaScript<br>· 수강 중 현 직장 합류가 확정되어 중도 하차</td>
-</tr>
-<tr>
-<td align="center"><b>22.06 ~ 22.12</b></td>
-<td><b>광주인공지능사관학교</b></td>
-<td>· <b><a href="https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service">CCTV 이상행동 탐지</a></b> (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> <b>최우수상</b> — YOLOv7 · 텔레그램 자동 알림<br>· <b>AIDA 경진대회 본선</b> (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식<br>· <a href="https://github.com/beomwon/Emotional_Song_Recommendation_Service">감정 기반 노래 추천</a> — KoELECTRA · StyleGAN2</td>
-</tr>
-</table>
+- AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강
+- **[UI 팀 프로젝트](https://github.com/beomwon/frontend_bootcamp_likelion)** 등 진행 — HTML · CSS · JavaScript
+- 수강 중 현 직장 합류가 확정되어 중도 하차
 
-**학력**
+### 광주인공지능사관학교 <sub>22.06 ~ 22.12</sub>
 
-<table>
-<tr>
-<th width="120">Period</th>
-<th width="230">School</th>
-<th width="700">Description</th>
-</tr>
-<tr>
-<td align="center"><b>14.03 ~ 22.02</b></td>
-<td><b>전북대학교 IT정보공학과</b><br><sub>학사</sub></td>
-<td>· 졸업작품: <b>Super Resolution을 이용한 블랙박스 화질 개선</b><br>· 나가사키대학교 AI 연구실 교환 프로그램 (2020)</td>
-</tr>
-</table>
+- **[CCTV 이상행동 탐지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service)** (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> **최우수상** — YOLOv7 · 텔레그램 자동 알림
+- **AIDA 경진대회 본선** (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식
+- [감정 기반 노래 추천](https://github.com/beomwon/Emotional_Song_Recommendation_Service) — KoELECTRA · StyleGAN2
+
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237d8590" width="18" align="center"/> 학력
+
+### 전북대학교 IT정보공학과 <sub>학사 · 14.03 ~ 22.02</sub>
+
+- 졸업작품: **Super Resolution을 이용한 블랙박스 화질 개선**
+- 나가사키대학교 AI 연구실 교환 프로그램 (2020)
