@@ -15,7 +15,7 @@
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%237d8590" width="18" align="center"/> Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <th width="130" align="left">AI / Agent</th>
 <td>MCP · Claude · Gemini · ChatGPT</td>
@@ -40,7 +40,7 @@
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
-<table>
+<table width="100%">
 <tr>
 <th width="120">Period</th>
 <th width="230">Role</th>
@@ -62,7 +62,7 @@
 
 ## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%237d8590" width="18" align="center"/> 프로젝트
 
-<table>
+<table width="100%">
 <tr>
 <th width="120">Period</th>
 <th width="230">Project</th>
@@ -95,7 +95,7 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <th width="120">Period</th>
 <th width="230">Project</th>
@@ -136,7 +136,7 @@
 
 **부트캠프 · 교육과정**
 
-<table>
+<table width="100%">
 <tr>
 <th width="120">Period</th>
 <th width="230">Course</th>
@@ -156,7 +156,7 @@
 
 **학력**
 
-<table>
+<table width="100%">
 <tr>
 <th width="120">Period</th>
 <th width="230">School</th>
