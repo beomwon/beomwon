@@ -81,8 +81,8 @@
 </tr>
 <tr>
 <td align="center"><b>26.07</b></td>
-<td><b><a href="https://bythonic.vercel.app">Bythonic</a></b><br><sub>포트폴리오 사이트</sub></td>
-<td>· 경력·프로젝트를 정리한 포트폴리오 사이트 — 더 궁금한 점은 <b>AI 에이전트가 1인칭으로 답변</b>합니다<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 서버리스로 운영<br>· React · TypeScript · Vite · Vercel Functions</td>
+<td><b><a href="https://bythonic.vercel.app">Bythonic</a></b> · <a href="https://github.com/beomwon/bythonic">Code</a><br><sub>포트폴리오 사이트</sub></td>
+<td>· 경력·프로젝트를 정리한 포트폴리오 사이트 — 더 궁금한 점은 <b>AI 에이전트가 1인칭으로 답변</b>합니다<br>· Gemini 스트리밍(SSE) 채팅 + 무료 티어 <b>멀티 모델 폴백 체인</b>, 백엔드 서버 없이 서버리스로 운영<br>· <b><a href="https://github.com/beomwon/bythonic">저장소 공개</a></b> — 가드레일·폴백·민감정보 필터 설계를 README에 정리<br>· React · TypeScript · Vite · Vercel Functions</td>
 </tr>
 <tr>
 <td align="center"><b>26.07</b></td>
