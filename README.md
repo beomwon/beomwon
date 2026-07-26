@@ -1,11 +1,13 @@
 **AI 에이전트 · MCP 서버 · 백엔드 엔지니어**
 
-사내 업무를 AI 에이전트로 자동화하고 개발하며,</br>
+사내 업무를 AI 에이전트로 자동화하고 개발하며,   
 퇴근 후에는 머리 속에 있는 서비스를 만들어 배포합니다.
 
 <a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
 
-<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요.</br><a href="https://bythonic.vercel.app">Bythonic</a>은 경력과 프로젝트를 정리해둔 제 포트폴리오 사이트입니다</br>더 궁금한 점은 사이트 안의 AI 에이전트에게 물어보셔도 됩니다.</sub>
+<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요.   
+<a href="https://bythonic.vercel.app">Bythonic</a>은 경력과 프로젝트를 정리해둔 제 포트폴리오 사이트입니다   
+더 궁금한 점은 사이트 안의 AI 에이전트에게 물어보셔도 됩니다.</sub>
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%237d8590" width="18" align="center"/> About
 
@@ -15,10 +17,10 @@
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%237d8590" width="18" align="center"/> Tech Stack
 
-<table width="100%">
+<table>
 <tr>
 <th width="130" align="left">AI / Agent</th>
-<td>MCP · Claude · Gemini · ChatGPT</td>
+<td width="700">MCP · Claude · Gemini · ChatGPT</td>
 </tr>
 <tr>
 <th align="left">Backend</th>
@@ -40,11 +42,11 @@
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
-<table width="100%">
+<table>
 <tr>
 <th width="120">Period</th>
 <th width="230">Role</th>
-<th>Description</th>
+<th width="700">Description</th>
 </tr>
 <tr>
 <td align="center"><b>25.09 ~</b></td>
@@ -62,11 +64,11 @@
 
 ## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%237d8590" width="18" align="center"/> 프로젝트
 
-<table width="100%">
+<table>
 <tr>
 <th width="120">Period</th>
 <th width="230">Project</th>
-<th>Description</th>
+<th width="700">Description</th>
 </tr>
 <tr>
 <td align="center"><b>26.07 ~</b></td>
@@ -95,11 +97,11 @@
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
 <th width="120">Period</th>
 <th width="230">Project</th>
-<th>Description</th>
+<th width="700">Description</th>
 </tr>
 <tr>
 <td align="center"><b>26.07</b></td>
@@ -136,11 +138,11 @@
 
 **부트캠프 · 교육과정**
 
-<table width="100%">
+<table>
 <tr>
 <th width="120">Period</th>
 <th width="230">Course</th>
-<th>Description</th>
+<th width="700">Description</th>
 </tr>
 <tr>
 <td align="center"><b>25.04 ~ 25.08</b></td>
@@ -156,11 +158,11 @@
 
 **학력**
 
-<table width="100%">
+<table>
 <tr>
 <th width="120">Period</th>
 <th width="230">School</th>
-<th>Description</th>
+<th width="700">Description</th>
 </tr>
 <tr>
 <td align="center"><b>14.03 ~ 22.02</b></td>
