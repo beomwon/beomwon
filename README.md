@@ -59,7 +59,7 @@
 <tr>
 <td align="center"><b>24.09 ~ 25.06</b></td>
 <td><b><a href="https://play.google.com/store/apps/details?id=com.gwangbuapp&hl=ko">앱테크 '광부' 앱</a></b><br><sub>포인트 적립형 앱테크 서비스</sub></td>
-<td>· 기획·백엔드·운영 전담 — <b>누적 다운로드 18,000+ · DAU 1,800</b><br>· <b>App Store · Google Play 양대 마켓 출시</b>, 3인 팀에서 본업과 병행해 <b>10개월간 실사용자 대상으로 운영</b><br>· FastAPI · Firebase 푸시 알림 · Redis 중복 요청 방지, 관리자 페이지·ERD 직접 설계</td>
+<td>· 기획·백엔드·운영 전담 — <b>누적 다운로드 19,000+ · DAU 1,800 · 매출 1,800만원</b><br>· <b>App Store · Google Play 양대 마켓 출시</b>, 3인 팀에서 본업과 병행해 <b>10개월간 실사용자 대상으로 운영</b><br>· FastAPI · Firebase 푸시 알림 · Redis 중복 요청 방지, 관리자 페이지·ERD 직접 설계</td>
 </tr>
 </table>
 
