@@ -1,7 +1,7 @@
 **AI 에이전트 · MCP 서버 · 백엔드 엔지니어**
 
 <sub>사내 업무를 AI 에이전트로 자동화하고 개발하며 퇴근 후에는 머리 속에 있는 서비스를 만들어 배포합니다.   
-포지션 제안은 메일로 편하게 주세요. 더 궁금한 점은 포트폴리오의 AI 에이전트에게 물어보셔도 됩니다.</sub>   
+포지션 제안은 메일로 편하게 주세요. 더 궁금한 점은 **포트폴리오의 AI 에이전트**에게 물어보셔도 됩니다.</sub>   
    
 <a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
