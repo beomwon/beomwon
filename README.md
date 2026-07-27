@@ -31,7 +31,7 @@
 - **TIPS 선정 주도** <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — **AI 분야로 선정되어 7억 원 투자 유치** (23.05)
 - **[유해물 검출 AI](https://github.com/beomwon/illegal_post_detection_AI)** — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용
 
-<sub>25.04 ~ 25.08은 프론트엔드 부트캠프 수강 기간입니다 — 아래 <b>교육</b> 참고.</sub>
+<sub>25.04 ~ 25.08은 멋쟁이사자처럼 프론트엔드 부트캠프 수강 기간입니다 (수강 중 현 직장 합류가 확정되어 중도 하차) — 결과물은 <a href="https://github.com/beomwon/bootcamp">bootcamp</a> 참고.</sub>
 
 ## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%237d8590" width="18" align="center"/> 프로젝트
 
@@ -105,24 +105,45 @@
 
 </details>
 
-## <img src="https://api.iconify.design/lucide/book-open.svg?color=%237d8590" width="18" align="center"/> 교육
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%237d8590" width="18" align="center"/> 저장소 안내
 
-### 멋쟁이사자처럼 프론트엔드 부트캠프 <sub>25.04 ~ 25.08</sub>
+<table>
+<tr>
+<th width="300">저장소</th>
+<th width="750">내용</th>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/bythonic">bythonic</a></b></td>
+<td>포트폴리오 사이트 + 저를 대신해 답하는 AI 에이전트 — 가드레일 · 모델 폴백 · 민감정보 필터 설계를 README에 정리했습니다</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/wikidocs">wikidocs</a></b></td>
+<td>위키독스에 발행한 배포·운영 입문 전자책 원고</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service">CCTV 이상행동 탐지</a></b> <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/></td>
+<td>YOLOv7 기반 위험 상황 탐지 + 텔레그램 자동 알림 — 광주인공지능사관학교 <b>최우수상</b> (PM 담당)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/illegal_post_detection_AI">illegal_post_detection_AI</a></b></td>
+<td>OCR 기반 불법 광고 게시물 검출 AI — 1인 개발·배포 후 실서비스 적용</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/osyulaeng">osyulaeng</a></b></td>
+<td>점심 메뉴·팀 추천 사내 서비스 '오슐랭' 백엔드 API (Django)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/bootcamp">bootcamp</a></b></td>
+<td>부트캠프 결과물 모음 — 멋쟁이사자처럼 프론트엔드 14기(25) · 광주 인공지능 사관학교 3기(22)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/side-projects">side-projects</a></b></td>
+<td>습작과 학습 기록 모음 (2018~2026) — 알고리즘 풀이, 토이 프로젝트, 학습 메모</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/beomwon/obsidian-dev-vault">obsidian-dev-vault</a></b></td>
+<td>개발 노트용 옵시디언 Vault 스타터 킷 — 폴더 구조 · 템플릿 · 원클릭 설치 스크립트</td>
+</tr>
+</table>
 
-- AI 에이전트로 프론트를 개발하려면 최소한의 기반 지식이 필요하다고 판단해 수강
-- **[UI 팀 프로젝트](https://github.com/beomwon/bootcamp/tree/main/likelion-frontend/project-ui)** — 나이키 공식 사이트 클론, 5인 팀에서 메인 페이지 담당 (HTML · CSS · JavaScript · Vite)
-- 수강 중 현 직장 합류가 확정되어 중도 하차
-
-### 광주인공지능사관학교 <sub>22.06 ~ 22.12</sub>
-
-- **[CCTV 이상행동 탐지](https://github.com/beomwon/CCTV_Abnormal_Behavior_Detection_Service)** (PM) <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> **최우수상** — YOLOv7 · 텔레그램 자동 알림
-- **AIDA 경진대회 본선** (과기정통부) — 도로 위험 요소 탐지 + 날씨 인식
-- [감정 기반 노래 추천](https://github.com/beomwon/bootcamp/tree/main/gwangju-ai-school/emotional-song-recommendation) — KoELECTRA · StyleGAN2
-- 그 외 부트캠프 기간의 프로젝트·과제는 [bootcamp](https://github.com/beomwon/bootcamp)에 모아두었습니다
-
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237d8590" width="18" align="center"/> 학력
-
-### 전북대학교 IT정보공학과 <sub>학사 · 14.03 ~ 22.02</sub>
-
-- 졸업작품: **Super Resolution을 이용한 블랙박스 화질 개선**
-- 나가사키대학교 AI 연구실 교환 프로그램 (2020)
+<sub>학력·자격증 등 이력서 항목은 <a href="https://bythonic.vercel.app">포트폴리오 사이트</a>에 정리해두었습니다.</sub>
