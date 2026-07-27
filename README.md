@@ -1,27 +1,22 @@
 **AI 에이전트 · MCP 서버 · 백엔드 엔지니어**
 
-사내 업무를 AI 에이전트로 자동화하고 개발하며,   
-퇴근 후에는 머리 속에 있는 서비스를 만들어 배포합니다.
-
-<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
-
-<sub>AI 에이전트 · 백엔드 포지션 제안은 메일로 편하게 주세요.   
-<a href="https://bythonic.vercel.app">Bythonic</a>은 경력과 프로젝트를 정리해둔 제 포트폴리오 사이트입니다   
-더 궁금한 점은 사이트 안의 AI 에이전트에게 물어보셔도 됩니다.</sub>
+<sub>사내 업무를 AI 에이전트로 자동화하고 개발하며 퇴근 후에는 머리 속에 있는 서비스를 만들어 배포합니다.   
+포지션 제안은 메일로 편하게 주세요. 더 궁금한 점은 포트폴리오의 AI 에이전트에게 물어보셔도 됩니다.</sub>   
+   
+<a href="mailto:beomwon22@gmail.com"><img src="https://img.shields.io/badge/beomwon22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://bythonic.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B1F767?style=flat-square&logo=claude&logoColor=black"/></a>
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%237d8590" width="18" align="center"/> About
-
-- 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 **DAU 1,800**까지 운영했습니다
-- 요즘은 **에이전트 하네스(harness)와 루프 설계** — AI 에이전트가 스스로 일하는 실행 환경을 어떻게 짜야 하는지를 파고들고 있습니다
-- 퇴근하면 **바이브코딩**으로 만들고 싶던 걸 만듭니다.
+<sub> - 기획부터 개발·배포·운영까지 — 앱테크 서비스 **광부**를 직접 만들어 **다운로드 1.9만+ · 매출 1800만원 · DAU 1,800**까지 운영해봤습니다</sub>   
+<sub> - 요즘은 **에이전트 하네스(harness)와 루프 설계** — AI 에이전트가 스스로 일하는 실행 환경을 어떻게 짜야 하는지를 파고들고 있습니다</sub>   
+<sub> - 퇴근하면 **바이브코딩**으로 만들고 싶던 걸 만듭니다</sub>   
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%237d8590" width="18" align="center"/> Tech Stack
-
-- **AI / Agent** — MCP · Claude · Gemini · ChatGPT
-- **Backend** — Python · FastAPI · Django · PostgreSQL · Redis · Firebase
-- **ML** — PyTorch · OpenCV
-- **Frontend** — Next.js · React · TypeScript <sub>(AI 에이전트와 함께 배포·운영)</sub>
-- **Infra** — AWS · GCP · Azure · NCP · Docker · Vercel
+<sub> - **AI / Agent** — MCP · Claude · Gemini · ChatGPT</sub>   
+<sub> - **Backend** — Python · FastAPI · Django · PostgreSQL · Redis · Firebase</sub>   
+<sub> - **ML** — PyTorch · OpenCV</sub>   
+<sub> - **Frontend** — Next.js · React · TypeScript (AI 에이전트)</sub>   
+<sub> - **Infra** — AWS · GCP · Azure · NCP · Docker · Vercel</sub>   
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
