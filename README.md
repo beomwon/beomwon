@@ -20,13 +20,13 @@
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%237d8590" width="18" align="center"/> 경력
 
-### AI 에이전트 · 백엔드 엔지니어 <sub>25.09 ~ 현재</sub>
+**AI 에이전트 · 백엔드 엔지니어 <sub>25.09 ~ 현재</sub>**
 
 <sub> - 사내 DB 연동 **MCP 서버** 개발·운영, **Claude 기반 업무 자동화 환경** 구축</sub>   
 <sub> - 대형 통신사 협업 서비스 핵심 아이디어 제안 → **채택되어 실제 개발로 전환**</sub>   
 <sub> - MCP 서버·AI 에이전트 PoC 설계/시연, 금융권 협업 프로젝트 참여</sub>   
 
-### AI / R&D 팀장 <sub>23.01 ~ 25.03</sub>
+**AI / R&D 팀장 <sub>23.01 ~ 25.03</sub>**
 
 <sub> - **TIPS 선정 주도** <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFD700" width="14" align="center"/> — **AI 분야로 선정되어 7억 원 투자 유치** (23.05)</sub>   
 <sub> - **[유해물 검출 AI](https://github.com/beomwon/illegal_post_detection_AI)** — OCR 기반 불법 광고 검출, 1인 개발·배포 후 실서비스 적용</sub>   
